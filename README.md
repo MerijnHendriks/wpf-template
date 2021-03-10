@@ -1,3 +1,3 @@
 # WPF Template
 
-A barebone WPF app, requires .NET 5.0
+A barebone .NET 5.0 WPF template
